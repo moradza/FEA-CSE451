@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sp16-me471/!svn/ver/6045/moradza2/04-FEA-Truss/Matlab-Code/Example6
+END
+PUR_Vector.dat
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sp16-me471/!svn/ver/6045/moradza2/04-FEA-Truss/Matlab-Code/Example6/PUR_Vector.dat
+END
+inputcrane.dat
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sp16-me471/!svn/ver/6045/moradza2/04-FEA-Truss/Matlab-Code/Example6/inputcrane.dat
+END
+KFF_Matrix.dat
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sp16-me471/!svn/ver/6045/moradza2/04-FEA-Truss/Matlab-Code/Example6/KFF_Matrix.dat
+END
+UF_Vector.dat
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sp16-me471/!svn/ver/6045/moradza2/04-FEA-Truss/Matlab-Code/Example6/UF_Vector.dat
+END
+UUR_Vector.dat
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sp16-me471/!svn/ver/6045/moradza2/04-FEA-Truss/Matlab-Code/Example6/UUR_Vector.dat
+END
+KPP_Matrix.dat
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sp16-me471/!svn/ver/6045/moradza2/04-FEA-Truss/Matlab-Code/Example6/KPP_Matrix.dat
+END
+PP_Vector.dat
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sp16-me471/!svn/ver/6045/moradza2/04-FEA-Truss/Matlab-Code/Example6/PP_Vector.dat
+END
+Strain_Vector.dat
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sp16-me471/!svn/ver/6045/moradza2/04-FEA-Truss/Matlab-Code/Example6/Strain_Vector.dat
+END
+KFP_Matrix.dat
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sp16-me471/!svn/ver/6045/moradza2/04-FEA-Truss/Matlab-Code/Example6/KFP_Matrix.dat
+END
+KPF_Matrix.dat
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sp16-me471/!svn/ver/6045/moradza2/04-FEA-Truss/Matlab-Code/Example6/KPF_Matrix.dat
+END
+EQNUM.dat
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sp16-me471/!svn/ver/6045/moradza2/04-FEA-Truss/Matlab-Code/Example6/EQNUM.dat
+END
+Stress_Vector.dat
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sp16-me471/!svn/ver/6045/moradza2/04-FEA-Truss/Matlab-Code/Example6/Stress_Vector.dat
+END

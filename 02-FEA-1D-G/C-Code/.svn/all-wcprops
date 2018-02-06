@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/sp16-me471/!svn/ver/2024/moradza2/02-FEA-1D-G/C-Code
+END
+ElemStiff.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sp16-me471/!svn/ver/2067/moradza2/02-FEA-1D-G/C-Code/ElemStiff.cpp
+END
+SolveModule.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sp16-me471/!svn/ver/2067/moradza2/02-FEA-1D-G/C-Code/SolveModule.cpp
+END
+GlobStiff.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sp16-me471/!svn/ver/2067/moradza2/02-FEA-1D-G/C-Code/GlobStiff.cpp
+END
+Initialize.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sp16-me471/!svn/ver/2067/moradza2/02-FEA-1D-G/C-Code/Initialize.cpp
+END
+MainFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sp16-me471/!svn/ver/2067/moradza2/02-FEA-1D-G/C-Code/MainFile.cpp
+END
+input.dat
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sp16-me471/!svn/ver/2067/moradza2/02-FEA-1D-G/C-Code/input.dat
+END
+MainFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sp16-me471/!svn/ver/2067/moradza2/02-FEA-1D-G/C-Code/MainFile.h
+END
+PA2.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sp16-me471/!svn/ver/2024/moradza2/02-FEA-1D-G/C-Code/PA2.pdf
+END
+ForceAssemble.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sp16-me471/!svn/ver/2067/moradza2/02-FEA-1D-G/C-Code/ForceAssemble.cpp
+END
+Assemble.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sp16-me471/!svn/ver/2067/moradza2/02-FEA-1D-G/C-Code/Assemble.cpp
+END
+DisAssemble.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sp16-me471/!svn/ver/2067/moradza2/02-FEA-1D-G/C-Code/DisAssemble.cpp
+END
+ReadInput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sp16-me471/!svn/ver/2067/moradza2/02-FEA-1D-G/C-Code/ReadInput.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sp16-me471/!svn/ver/2067/moradza2/02-FEA-1D-G/C-Code/Makefile
+END
+PrintOutput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sp16-me471/!svn/ver/2024/moradza2/02-FEA-1D-G/C-Code/PrintOutput.cpp
+END

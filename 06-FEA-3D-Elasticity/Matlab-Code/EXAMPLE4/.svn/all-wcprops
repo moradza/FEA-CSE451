@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sp16-me471/!svn/ver/8718/moradza2/06-FEA-3D-Elasticity/Matlab-Code/EXAMPLE4
+END
+StressAtIntegrationPoints.dat
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sp16-me471/!svn/ver/8718/moradza2/06-FEA-3D-Elasticity/Matlab-Code/EXAMPLE4/StressAtIntegrationPoints.dat
+END
+StrainAtCentroid.dat
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sp16-me471/!svn/ver/8718/moradza2/06-FEA-3D-Elasticity/Matlab-Code/EXAMPLE4/StrainAtCentroid.dat
+END
+StrainAtNodes.dat
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sp16-me471/!svn/ver/8718/moradza2/06-FEA-3D-Elasticity/Matlab-Code/EXAMPLE4/StrainAtNodes.dat
+END
+KPP_Matrix.dat
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sp16-me471/!svn/ver/8718/moradza2/06-FEA-3D-Elasticity/Matlab-Code/EXAMPLE4/KPP_Matrix.dat
+END
+EQNUM.dat
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sp16-me471/!svn/ver/8718/moradza2/06-FEA-3D-Elasticity/Matlab-Code/EXAMPLE4/EQNUM.dat
+END
+StrainAtIntegrationPoints.dat
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sp16-me471/!svn/ver/8718/moradza2/06-FEA-3D-Elasticity/Matlab-Code/EXAMPLE4/StrainAtIntegrationPoints.dat
+END
+PUR_Vector.dat
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sp16-me471/!svn/ver/8718/moradza2/06-FEA-3D-Elasticity/Matlab-Code/EXAMPLE4/PUR_Vector.dat
+END
+PrincipalStressesAtCentroid.dat
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sp16-me471/!svn/ver/8718/moradza2/06-FEA-3D-Elasticity/Matlab-Code/EXAMPLE4/PrincipalStressesAtCentroid.dat
+END
+KFF_Matrix.dat
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sp16-me471/!svn/ver/8718/moradza2/06-FEA-3D-Elasticity/Matlab-Code/EXAMPLE4/KFF_Matrix.dat
+END
+PrincipalStressesAtNodes.dat
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sp16-me471/!svn/ver/8718/moradza2/06-FEA-3D-Elasticity/Matlab-Code/EXAMPLE4/PrincipalStressesAtNodes.dat
+END
+UF_Vector.dat
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sp16-me471/!svn/ver/8718/moradza2/06-FEA-3D-Elasticity/Matlab-Code/EXAMPLE4/UF_Vector.dat
+END
+UUR_Vector.dat
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sp16-me471/!svn/ver/8718/moradza2/06-FEA-3D-Elasticity/Matlab-Code/EXAMPLE4/UUR_Vector.dat
+END
+StressAtCentroid.dat
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sp16-me471/!svn/ver/8718/moradza2/06-FEA-3D-Elasticity/Matlab-Code/EXAMPLE4/StressAtCentroid.dat
+END
+PP_Vector.dat
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sp16-me471/!svn/ver/8718/moradza2/06-FEA-3D-Elasticity/Matlab-Code/EXAMPLE4/PP_Vector.dat
+END
+StressAtNodes.dat
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sp16-me471/!svn/ver/8718/moradza2/06-FEA-3D-Elasticity/Matlab-Code/EXAMPLE4/StressAtNodes.dat
+END
+PrincipalStressesAtIntegrationPoints.dat
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/sp16-me471/!svn/ver/8718/moradza2/06-FEA-3D-Elasticity/Matlab-Code/EXAMPLE4/PrincipalStressesAtIntegrationPoints.dat
+END
+KPF_Matrix.dat
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sp16-me471/!svn/ver/8718/moradza2/06-FEA-3D-Elasticity/Matlab-Code/EXAMPLE4/KPF_Matrix.dat
+END
+KFP_Matrix.dat
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sp16-me471/!svn/ver/8718/moradza2/06-FEA-3D-Elasticity/Matlab-Code/EXAMPLE4/KFP_Matrix.dat
+END
+Patch-1Element.dat
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sp16-me471/!svn/ver/8718/moradza2/06-FEA-3D-Elasticity/Matlab-Code/EXAMPLE4/Patch-1Element.dat
+END

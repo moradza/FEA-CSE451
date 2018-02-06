@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/sp16-me471/!svn/ver/6051/moradza2/04-FEA-Truss/C-Code
+END
+MainFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sp16-me471/!svn/ver/4416/moradza2/04-FEA-Truss/C-Code/MainFile.cpp
+END
+MainFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sp16-me471/!svn/ver/4416/moradza2/04-FEA-Truss/C-Code/MainFile.h
+END
+ReadInput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sp16-me471/!svn/ver/4416/moradza2/04-FEA-Truss/C-Code/ReadInput.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sp16-me471/!svn/ver/4416/moradza2/04-FEA-Truss/C-Code/Makefile
+END
+PrintOutput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sp16-me471/!svn/ver/4615/moradza2/04-FEA-Truss/C-Code/PrintOutput.cpp
+END

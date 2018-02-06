@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sp16-me471/!svn/ver/7312/moradza2/05-FEA-Heat/Matlab-Code
+END
+MainFile.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sp16-me471/!svn/ver/7312/moradza2/05-FEA-Heat/Matlab-Code/MainFile.m
+END
+PlotVectors.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sp16-me471/!svn/ver/7312/moradza2/05-FEA-Heat/Matlab-Code/PlotVectors.m
+END
+inputExample10_4_QUAD.dat
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sp16-me471/!svn/ver/7312/moradza2/05-FEA-Heat/Matlab-Code/inputExample10_4_QUAD.dat
+END
+LShapeMesh.dat
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sp16-me471/!svn/ver/7312/moradza2/05-FEA-Heat/Matlab-Code/LShapeMesh.dat
+END
+EvaluateFieldGradient.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sp16-me471/!svn/ver/7312/moradza2/05-FEA-Heat/Matlab-Code/EvaluateFieldGradient.m
+END
+ReadInput.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sp16-me471/!svn/ver/7312/moradza2/05-FEA-Heat/Matlab-Code/ReadInput.m
+END
+PlotFieldonMesh.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sp16-me471/!svn/ver/7312/moradza2/05-FEA-Heat/Matlab-Code/PlotFieldonMesh.m
+END
+Example4-4-Incropera.dat
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sp16-me471/!svn/ver/7312/moradza2/05-FEA-Heat/Matlab-Code/Example4-4-Incropera.dat
+END
+Example4-4-Incropera-finer.dat
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sp16-me471/!svn/ver/7312/moradza2/05-FEA-Heat/Matlab-Code/Example4-4-Incropera-finer.dat
+END
+GetElementHeatFluxVector.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sp16-me471/!svn/ver/7312/moradza2/05-FEA-Heat/Matlab-Code/GetElementHeatFluxVector.m
+END
+PrintOutput.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sp16-me471/!svn/ver/7312/moradza2/05-FEA-Heat/Matlab-Code/PrintOutput.m
+END
+inputhw7.dat
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sp16-me471/!svn/ver/7312/moradza2/05-FEA-Heat/Matlab-Code/inputhw7.dat
+END
+ChimneyNew.dat
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sp16-me471/!svn/ver/7312/moradza2/05-FEA-Heat/Matlab-Code/ChimneyNew.dat
+END
+input_Incropera_4_3.dat
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sp16-me471/!svn/ver/7312/moradza2/05-FEA-Heat/Matlab-Code/input_Incropera_4_3.dat
+END
